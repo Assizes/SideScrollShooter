@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SideScroller</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>RESOURCE_LOC</name>
+			<value>file:/C:/Users/Assizes/Desktop/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/CSIS1275/java/SideScroller/res</value>
+		</variable>
+	</variableList>
+</projectDescription>
